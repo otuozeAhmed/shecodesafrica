@@ -1,3 +1,5 @@
-print('This is she codes Africa')
+def name_of_stud():
+    print('This is an empty function...')
 
-# this is a comment
+
+name_of_stud()
